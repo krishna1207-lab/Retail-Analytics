@@ -29,8 +29,8 @@ A comprehensive retail analytics dashboard built with Streamlit and FastAPI, pro
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/krishna1207-lab/retail-analytics-dashboard.git
-   cd retail-analytics-dashboard
+   git clone https://github.com/krishna1207-lab/Retail-Analytics.git
+   cd Retail-Analytics
    ```
 
 2. **Install dependencies:**
@@ -66,7 +66,7 @@ A comprehensive retail analytics dashboard built with Streamlit and FastAPI, pro
 ## 📁 Repository Structure
 
 ```
-retail-analytics-dashboard/
+Retail-Analytics/
 ├── 📊 streamlit_app.py              # Main Streamlit dashboard
 ├── 🚀 fastapi_app.py                # FastAPI backend server
 ├── 🤖 ml_models.py                  # Machine learning models

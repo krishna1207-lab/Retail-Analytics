@@ -1,0 +1,52 @@
+{
+  "data_summary": {
+    "total_transactions": 99457,
+    "unique_customers": 99457,
+    "total_revenue": 251505794.25,
+    "avg_transaction_value": 2528.7892682264696,
+    "date_range": {
+      "start": "2021-01-01",
+      "end": "2023-03-08"
+    }
+  },
+  "top_categories": {
+    "Clothing": 113996791.03999999,
+    "Shoes": 66553451.47,
+    "Technology": 57862350.0,
+    "Cosmetics": 6792862.899999999,
+    "Toys": 3980426.24
+  },
+  "top_stores": {
+    "Mall of Istanbul": 50872481.68,
+    "Kanyon": 50554231.1,
+    "Metrocity": 37302787.33,
+    "Metropol AVM": 25379913.19,
+    "Istinye Park": 24618827.68
+  },
+  "customer_segments": {
+    "Frequent-Buyers": 68705,
+    "Champions": 30752
+  },
+  "rfm_segments": {
+    "Others": 18928,
+    "At_Risk": 15971,
+    "New_Customers": 15850,
+    "Loyal_Customers": 15287,
+    "Potential_Loyalists": 14256,
+    "Cant_Lose_Them": 6483,
+    "Lost_Customers": 6388,
+    "Champions": 6294
+  },
+  "seasonal_trends": {
+    "Fall": 57548025.29,
+    "Spring": 60391208.41,
+    "Summer": 58594859.22,
+    "Winter": 74971701.33
+  },
+  "payment_preferences": {
+    "Cash": 0.4468966488030003,
+    "Credit Card": 0.35121710890133423,
+    "Debit Card": 0.20188624229566546
+  },
+  "generated_at": "2025-09-29T22:34:07.493656"
+}
